@@ -3,6 +3,10 @@
 /common/.gradle/
 /common/build/
 /fabric/.gradle/
+/fabric/run/
 /fabric/build/
 /forge/.gradle/
 /forge/build/
+/forge/run/
+
+.architectury-transformer/

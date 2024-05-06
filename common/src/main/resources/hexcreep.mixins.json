@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "net.walksanator.hexcreep.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "ImplementUndupOnIotas",
+    "MixinCastingImage",
+    "MixinOpAkashicWrite",
+    "MixinOpDuplicateN",
+    "MixinOpFishermanButCopy",
+    "MixinOpMakePackagedSpell",
+    "MixinOpPushLocal",
+    "MixinOpTwiddle",
+    "MixinOpWrites",
+    "PutUUIDBackOntoIotas"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
